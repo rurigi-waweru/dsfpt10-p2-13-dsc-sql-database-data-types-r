@@ -1,14 +1,14 @@
 # SQL Database Data Types
 
 ## Introduction
-In this lesson, you'll cover the importance of specifying data types, and the different types of data you can store in a SQLite database.
+In this lesson, you'll cover the importance of `specifying data types`, and the different `types of data` you can store in a `SQLite database`.
 
 ## Objectives
 
 You will be able to:
 
-* Describe how data types operate within databases and explain why they are necessary
-* Compare the 4 different types of data you can store in a SQLite database
+* Describe how `data types` operate within databases and explain why they are necessary
+* Compare the `4 different types` of data you can store in a SQLite database
 
 
 ## Why Do Data Types Matter?
